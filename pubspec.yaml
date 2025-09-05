@@ -1,0 +1,34 @@
+name: portfolio
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  data_table_2: ^2.5.10 # Or the latest version
+  google_fonts: ^6.2.1
+  device_info_plus: ^11.5.0 
+  animations: ^2.0.11 # Keep this for styling
+  url_launcher: ^6.3.2
+ 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  fonts:
+    - family: Consolas
+      fonts:
+        - asset: Assets\fonts\Consolas-Regular.ttf
+
+  assets:
+    - Assets\images\gradiant.gif
+    - Assets\images\IMG-20250707-WA0005.jpg
