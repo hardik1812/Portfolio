@@ -58,8 +58,3 @@ You can easily customize this portfolio with your own information. All the data 
 2. Update the files with your personal information.  
 3. Re-run the app, and the changes will be reflected\!
 
-## **License**
-
-Distributed under the MIT License. See LICENSE for more information.
-
-Made with ❤️ and Flutter.
