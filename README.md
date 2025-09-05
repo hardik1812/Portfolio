@@ -2,7 +2,7 @@
 
 A portfolio website built with Flutter, designed to look and feel like a command-line terminal. Interact with the interface by typing commands to learn more about me and my work.
 
-### **Check it out live: [your-portfolio-link.com](hardikprem.dev)**
+### **Check it out live: [hardikprem.dev](hardikprem.dev)**
 
 
 
