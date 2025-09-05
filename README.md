@@ -2,9 +2,9 @@
 
 A portfolio website built with Flutter, designed to look and feel like a command-line terminal. Interact with the interface by typing commands to learn more about me and my work.
 
-### **Check it out live: [your-portfolio-link.com](https://your-portfolio-link.com)**
+### **Check it out live: [your-portfolio-link.com](hardikprem.dev)**
 
-*(Consider adding a GIF or a screenshot of your terminal portfolio in action here\!)*
+
 
 ## **About The Project**
 
@@ -49,27 +49,12 @@ Want to run this project locally or fork it for your own use? Follow these simpl
 
 Make sure you have the Flutter SDK installed on your machine. You can find instructions [here](https://flutter.dev/docs/get-started/install).
 
-### **Installation & Setup**
-
-1. **Clone the repo:**  
-   git clone \[https://github.com/your-username/your-repo-name.git\](https://github.com/your-username/your-repo-name.git)
-
-2. **Navigate to the project directory:**  
-   cd your-repo-name
-
-3. **Get the dependencies:**  
-   flutter pub get
-
-4. **Run the app in Chrome:**  
-   flutter run \-d chrome
-
-And you're all set\! The app should now be running locally in your browser.
 
 ## **How to Customize**
 
 You can easily customize this portfolio with your own information. All the data for the commands (like your skills, projects, etc.) is located in a central place.
 
-1. Navigate to lib/data/ (or wherever you've stored your portfolio data).  
+1. Navigate to lib/  
 2. Update the files with your personal information.  
 3. Re-run the app, and the changes will be reflected\!
 
